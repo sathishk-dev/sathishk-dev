@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sathish Kumar
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 - 🔭 Here's my [portfolio] (https://sk-portfolio-us6x.onrender.com)                                                 
 - 🌱 I’m currently learning MERN Stack & UI/UX
 - 💬 Ask me about Tech
