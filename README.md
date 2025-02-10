@@ -10,8 +10,31 @@
 - 😄 Pronouns: Techie
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000"/>
+<!-- Frameworks -->
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="django" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" alt="laravel" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" alt="php" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="wordpress" />
+  <!-- Firebase -->
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" />
+  <!-- Programming Languages -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <!-- Web Development -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <!-- Databases -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <!-- Backend Technologies -->
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <!-- Frontend Technologies -->
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind CSS" />
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
