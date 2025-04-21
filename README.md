@@ -12,6 +12,8 @@
 ### I code in
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 <!-- Frameworks -->
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000" alt="django" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" alt="laravel" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" alt="php" />
@@ -31,10 +33,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <!-- Backend Technologies -->
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <!-- Frontend Technologies -->
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="React" />
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" alt="Tailwind CSS" />
 </div>
 
