@@ -14,37 +14,45 @@
 <table>
   <tr>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/><br>React
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/React.svg"/><br>React & Native
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>Node.js
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Node.js.svg"/><br>Node.js
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000"/><br>Django
+      <img height="50" width="50" src="https://www.svgrepo.com/show/353657/django-icon.svg"/><br>Django
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000"/><br>Laravel
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Laravel.svg"/><br>Laravel
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><br>JavaScript
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg"/><br>JavaScript
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/><br>Python
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Python.svg"/><br>Python
     </td>
     
  </tr>
-     <tr>
-       <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>Java
+
+
+  <tr>
+    <td align="center">
+      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensearch.svg"/><br>Opensearch
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/><br>HTML5
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Java.svg"/><br>Java
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/><br>CSS3
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Logstash.svg"/><br>Logstash
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><br>MongoDB
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg"/><br>HTML5
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg"/><br>CSS3
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/><br>MongoDB
     </td>
   </tr>
 </table>
@@ -54,22 +62,44 @@
 <table>
   <tr>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><br>VS Code
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg"/><br>VS Code
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><br>Git
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Git.svg"/><br>Git
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/><br>Anaconda
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Anaconda.svg"/><br>Anaconda
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><br>Eclipse
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg"/><br>Docker
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/><br>Photoshop
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Firebase.svg"/><br>Firebase
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><br>Figma
+      <img height="50" width="50" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"/><br>Eclipse
+    </td>
+  </tr>
+
+  <tr>
+
+  <td align="center">
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg"/><br>PostgreSql
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg"/><br>Kafka
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://www.svgrepo.com/show/331300/aws.svg"/><br>AWS
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg"/><br>Photoshop
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Figma.svg"/><br>Figma
+    </td>
+    <td align="center">
+      <img height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"/><br>Tailwind
     </td>
   </tr>
 </table>
