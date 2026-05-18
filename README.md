@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sathish Kumar
 
-<img align="right" style="object-fit:contain" width="300"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" style="object-fit:contain" width="390"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 Here's my [portfolio](https://sathishk-dev.web.app/)                                                 
 - 🌱 I'm a Full-Stack Developer and UI/UX Designer.
@@ -8,6 +8,10 @@
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sathish31102004@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sathishk-dev/)
 - 😄 Pronouns: Techie
+
+<br>
+<br>
+<br>
 
 ### I code in
 
