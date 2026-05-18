@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sathish Kumar
 
-<img align="right" style="object-fit:contain" width="390"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" style="object-fit:contain" width="360"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 Here's my [portfolio](https://sathishk-dev.web.app/)                                                 
 - 🌱 I'm a Full-Stack Developer and UI/UX Designer.
@@ -107,6 +107,8 @@
     </td>
   </tr>
 </table>
+
+<br>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sathishk-dev)
 
